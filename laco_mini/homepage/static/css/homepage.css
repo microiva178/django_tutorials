@@ -1,0 +1,167 @@
+nav {
+  z-index: 9999999;
+  color: #fff;
+  /* Цвет текста */
+}
+
+nav {
+  height: 20%;
+
+  background: linear-gradient(45deg, #ccfbff, #F5F5F5);
+  /* Цвет фона */
+  position: sticky;
+  /* Липкое позиционирование */
+  top: 0;
+  /* Положение сверху */
+}
+
+logo {
+  position: absolute;
+  font-size: 43px;
+  margin-top: 2.1%;
+  margin-left: 2.69%;
+}
+
+body {
+  background: #F5F5F5;
+  min-height: 100%;
+  /* Минимальная высота */
+}
+
+.button{
+ padding: 1%;
+ margin-top: 3%;
+ margin-right: 3%;
+ float: right;
+ text-decoration:none; text-align:center; 
+ padding:11px 32px; 
+ border:solid 1px #000000; 
+ -webkit-border-radius:16px;
+ -moz-border-radius:16px; 
+ border-radius: 16px; 
+ font:17px Arial, Helvetica, sans-serif; 
+ font-weight:bold; 
+ color:#000000; 
+ background:linear-gradient(45deg, #ccfbff, #F5F5F5); 
+ -webkit-box-shadow:0px 0px 2px #bababa;  -moz-box-shadow: 0px 0px 2px #bababa;  box-shadow:0px 0px 2px #bababa;  
+  
+  }.button:hover{
+ padding:11px 32px; 
+ border:solid 1px #000000; 
+ -webkit-border-radius:16px;
+ -moz-border-radius:16px; 
+ border-radius: 16px; 
+ font:17px Arial, Helvetica, sans-serif; 
+ font-weight:bold; 
+ color:#000000; 
+ background:#ccfbff; 
+ -webkit-box-shadow:0px 0px 2px #bababa;  -moz-box-shadow: 0px 0px 2px #bababa;  box-shadow:0px 0px 2px #bababa;  
+  
+}
+
+text {
+  display: block;
+  margin-top: 2.3%;
+  margin-left: 2.2%;
+  padding-right: 15%;
+}
+
+text1 {
+  display: block;
+  margin-top: 2.3%;
+  margin-left: 2.2%;
+  padding-right: 15%;
+} 
+
+a {
+  margin-left: 2.2%
+
+}
+
+picture {
+  float: right;
+  margin-right: 1.8%;
+  margin-top: 32%;
+  display: block;
+  background-image: url(pic_1.png);
+  background-image: no-repeat;
+  width: 120px;
+  height: 120px;
+}
+
+texture_1 {
+  position: absolute;	
+  display: block;
+  width: 23.7%;
+  height: 49.6%;
+  background-image: url(rec.png);
+  background-size: cover;
+  margin-top: 7.6%;
+  margin-left: 7%;
+}
+
+texture_2 {
+  position: absolute;	
+  float: top;
+  display: block;
+  width: 23.7%;
+  height: 49.6%;
+  background-image: url(t2.png);
+  margin-left: 37%;
+  margin-top: 7.6%;
+}
+
+texture_3 {
+  position: absolute;	
+  float: top;
+  float: right;
+  display: block;
+  width: 23.7%;
+  height: 49.6%;
+  background-image: url(texturewtf.jpg);
+  margin-left: 67%;
+  margin-top: 7.6%;
+}
+
+texture_4 {
+  position: absolute;
+  display: block;
+  width: 23.7%;
+  height: 49.6%;
+  background-image: url(text_4.png);
+  margin-left: 67%;
+  margin-top: 37.6%;
+}
+
+texture_5 {
+  position: absolute;
+  display: block;
+  width: 23.7%;
+  height: 49.6%;
+  background-image: url(text5.png);
+  margin-left: 37%;
+  margin-top: 37.6%;
+}
+
+texture_6 {
+  position: absolute;
+  display: block;
+  width: 23.7%;
+  height: 49.6%;
+  background-image: url(text6.jpeg);
+  margin-left: 7%;
+  margin-top: 37.6%;
+}
+
+pole {
+  display: block;
+  width:100%;
+  height:135%;
+  background: #F5F5F5;
+}
+
+h5 {
+  color: #ccfbff;
+  text-align: center;
+  font-size: 100px;
+}

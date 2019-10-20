@@ -1,0 +1,4 @@
+#!/bin/bash
+source venv/bin/activate
+echo 'hello freak bitches'
+python3 manage.py runserver --insecure
